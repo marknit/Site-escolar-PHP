@@ -15,6 +15,7 @@
 	$email=isset($_GET["tEmail"])?$_GET["tEmail"]:null;
 	$nasc=isset($_GET["tNasc"])?$_GET["tNasc"]:null;
 	$msg=isset($_GET["tMsg"])?$_GET["tMsg"]:null;
+	echo="Aquivo modificado";
 	
 	?>
  
